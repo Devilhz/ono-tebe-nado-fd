@@ -300,7 +300,6 @@
   display: flex;
   gap: 48px;
   list-style-type: none;
-  justify-self: start;
   justify-self: end;
   padding-right: 24px;
 }
