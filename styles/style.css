@@ -50,8 +50,8 @@
 .adress_header {
   justify-self: end;
   padding-right: 5px;
-  height: 98px;
   max-width: 240px;
+  padding-bottom: 5px;
 }
 
 .cover {
@@ -279,7 +279,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   justify-content: space-between;
-  padding-bottom: 117px;
+  padding-bottom: 85px;
 }
 
 .adress_footer {
